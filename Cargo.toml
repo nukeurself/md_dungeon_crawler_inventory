@@ -3,6 +3,7 @@ name = "md_dungeon_crawler_inventory"
 version = "0.1.0"
 authors = ["Markus Dick <36760856+nukeurself@users.noreply.github.com>"]
 edition = "2018"
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
